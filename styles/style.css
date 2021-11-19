@@ -64,12 +64,16 @@ body {
 }
 
 .optionsDisplay p {
-    padding: 2vh;
+    padding: 3vh;
     border: 5px solid rgb(102, 29, 29);
 }
 
+.optionsDisplay img {
+    width: 2vh;
+}
+
 .optionsDisplay a {
-    text-decoration-color: gold;
+    text-decoration-color: #ffd700;
 }
 
 .contentCard {
