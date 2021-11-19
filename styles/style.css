@@ -71,3 +71,33 @@ body {
 .optionsDisplay a {
     text-decoration-color: gold;
 }
+
+.contentCard {
+    text-align: center;
+    margin: 3vh;
+}
+
+.contentCard:hover, .contentCard:active {
+    border: 10px solid aqua;
+    background-color: darkcyan;
+}
+
+.contentCard p {
+    font-size: 3vh;
+    margin: 1vh 0;
+}
+
+.contentCard img {
+    width: 70vw;
+}
+
+.contentCard small {
+    font-family: "Minecraft";
+    color: aqua;
+    font-size: 3vh;
+}
+
+.elementFilter {
+    display: none;
+    background-color: brown;
+}
