@@ -57,7 +57,7 @@
 
     .optionsDisplayHighRez p:hover {
         border-color: aqua;
-        background-color: darkcyan;
+        background-image: linear-gradient(#00b1b1, #005a5a );
     }
 
     .decoGoldDiv {
