@@ -1,4 +1,4 @@
-const optionsMenu = document.querySelector('.optionsMenuSection');
+const optionsMenu = document.querySelector('.optionsDisplay');
 
 function showMenu() {
     if(optionsMenu.classList.contains('hidden')) {
