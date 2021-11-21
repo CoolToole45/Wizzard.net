@@ -79,8 +79,8 @@ body {
 
 .contentCard {
     text-align: center;
-    margin: 3vh;
-    border: 10px solid aqua;
+    margin: 2vh;
+    border: 10px solid #00b1b1;
 }
 
 .contentCard:hover, .contentCard:active {

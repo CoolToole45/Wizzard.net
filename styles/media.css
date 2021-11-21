@@ -11,7 +11,19 @@
 /* // Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
     .elementFilter {
-        display: block;
+        display: flex;
+        flex-direction: row;
+        border: 5px solid rgb(102, 29, 29);
+        margin: 2vh 10vw;
+        padding: 20px;
+    }
+
+    .filterSelection img {
+        width: 20%;
+    }
+
+    .filterSelection ul {
+        list-style: none;
     }
     
     .contentDisplay {
@@ -22,7 +34,7 @@
     }
 
     .contentCard {
-        width: 28%;
+        width: 22%;
     }
 
     .contentCard img {
@@ -69,6 +81,10 @@
 
     .decoGoldCoin {
         width: 30%;
+    }
+
+    .rotateClass {
+        transform: rotate(45deg);
     }
 }
 
