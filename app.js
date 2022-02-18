@@ -8,6 +8,7 @@ function showMenu() {
     }
 }
 
+
 const spinningCoinLeft = document.querySelector('#rotatingCoinLeft');
 const spinningCoinRight = document.querySelector('#rotatingCoinRight');
 

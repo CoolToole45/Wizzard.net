@@ -80,7 +80,7 @@ body {
 .contentCard {
     text-align: center;
     margin: 2vh;
-    /* border: 10px solid #00b1b1; */
+    border: 10px solid #00b1b1;
 }
 
 .contentCard:hover, .contentCard:active {
@@ -141,6 +141,10 @@ body {
     padding: 1vh 35vw 1vh 5vw;
     border: 5px solid rgb(102, 29, 29);
     background-color: #00b1b1;
+    font-family: "Minecraft";
+    font-size: 2vh;
+    outline: none;
+    
 }
 
 .submitButton {
@@ -154,4 +158,12 @@ body {
     font-size: 8vw;
     border: 5px solid rgb(102, 29, 29);
     padding: 1vh;
+}
+
+.loginText {
+    margin: 3vh 0;
+    text-align: center;
+    font-size: 3vh;
+    text-decoration: 4px underline;
+    text-decoration-color: gold;
 }

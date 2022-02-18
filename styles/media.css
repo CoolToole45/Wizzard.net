@@ -1,14 +1,3 @@
-/* // Small devices (landscape phones, 576px and up) */
-@media (min-width: 576px) {
-
-}
-
-/* // Medium devices (tablets, 768px and up) */
-@media (min-width: 768px) {
-
-}
-
-/* // Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
     .elementFilter {
         display: flex;
@@ -87,18 +76,4 @@
     .rotateClass {
         transform: rotate(45deg);
     }
-
-    .AccountForm {
-        background-color: brown;
-        border: 5px solid rgb(102, 29, 29);
-    }
-
-    .formGroup {
-        margin: 3vw;
-    }
-}
-
-/* // Extra large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) {
-    
 }
